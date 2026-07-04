@@ -3,8 +3,13 @@
 > A curated list of high-quality resources, tools, libraries, and projects for the TON ecosystem.
 
 ## Contents
+- Actor model
 - Tools
 - Ton Security
+
+## Actor model
+### [The Actor Model:everything you wanted to know](https://www.youtube.com/watch?v=7erJ1DV_Tlo&)
+Youtube video by Carl Hewitt and Clemens Szyperski.
 
 ## Tools
 ### [Playground](https://txtracer.ton.org/play/)
