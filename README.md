@@ -21,4 +21,5 @@ Emulate raw messages on TON blockchain. Send single messages or batch multiple m
 
 
 ## Ton Security
-[awesome-ton-security](https://github.com/Polaristow/awesome-ton-security)
+### [awesome-ton-security](https://github.com/Polaristow/awesome-ton-security)
+A curated list of awesome Ton security resources, continuously updated.
