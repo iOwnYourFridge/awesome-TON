@@ -3,14 +3,17 @@
 > A curated list of high-quality resources, tools, libraries, and projects for the TON ecosystem.
 
 ## Contents
-- Actor model
+- Understanding TON
 - Tools
 - Ton Security
 
-## Actor model
-### [The Actor Model:everything you wanted to know](https://www.youtube.com/watch?v=7erJ1DV_Tlo&)
+## Understanding TON
+### Actor model
+#### [The Actor Model:everything you wanted to know](https://www.youtube.com/watch?v=7erJ1DV_Tlo&)
 Youtube video by Carl Hewitt and Clemens Szyperski.
 > TON is based on a **heavily modified** version of the Actor model, and it violates some of its fundamental principles in several ways, for example, the masterchain acting as a global state, logical-time-based message ordering, and guaranteed message delivery, among others.
+### Consensus
+#### [The Simplex Consensus Protocol](https://simplex.blog/)
 
 ## Tools
 ### [Playground](https://txtracer.ton.org/play/)
